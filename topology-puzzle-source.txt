@@ -1,0 +1,14 @@
+
+
+
+Four defensive shield spells are given on the Defense Against the Scary Spells
+page of Larry's Spellbook.
+Each shield has a seven-letter name (a non-sensical word),
+and may be identified by its graph:
+
+
+Likewise, offensive attack spells are described by sequences of ordered pairs
+with vertical coordinates increasing toward \(\infty\).
+Remember that an offensive attack spell defeats an sheild if infinitely-many
+of the ordered pairs are below the graph of the defensive shield.
+
